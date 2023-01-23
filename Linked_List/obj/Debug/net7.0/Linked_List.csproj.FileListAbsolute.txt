@@ -1,0 +1,15 @@
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\obj\Debug\net7.0\Linked_List.csproj.AssemblyReference.cache
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\obj\Debug\net7.0\Linked_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\obj\Debug\net7.0\Linked_List.AssemblyInfoInputs.cache
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\obj\Debug\net7.0\Linked_List.AssemblyInfo.cs
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\obj\Debug\net7.0\Linked_List.csproj.CoreCompileInputs.cache
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\bin\Debug\net7.0\Linked_List.exe
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\bin\Debug\net7.0\Linked_List.deps.json
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\bin\Debug\net7.0\Linked_List.runtimeconfig.json
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\bin\Debug\net7.0\Linked_List.dll
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\bin\Debug\net7.0\Linked_List.pdb
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\obj\Debug\net7.0\Linked_List.dll
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\obj\Debug\net7.0\refint\Linked_List.dll
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\obj\Debug\net7.0\Linked_List.pdb
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\obj\Debug\net7.0\Linked_List.genruntimeconfig.cache
+C:\Users\ncirp\Desktop\Visual Studio Projects\Examples\Linked_List\obj\Debug\net7.0\ref\Linked_List.dll
