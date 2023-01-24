@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ncirp\\Desktop\\Visual Studio Projects\\Examples\\Linked_List\\Linked_List.csproj",
+      "projectUniqueName": "C:\\Users\\ncirp\\Desktop\\Visual Studio Projects\\List-Array-DoubleLinkedList\\Linked_List\\Linked_List.csproj",
       "projectName": "Linked_List",
-      "projectPath": "C:\\Users\\ncirp\\Desktop\\Visual Studio Projects\\Examples\\Linked_List\\Linked_List.csproj",
+      "projectPath": "C:\\Users\\ncirp\\Desktop\\Visual Studio Projects\\List-Array-DoubleLinkedList\\Linked_List\\Linked_List.csproj",
       "packagesPath": "C:\\Users\\ncirp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ncirp\\Desktop\\Visual Studio Projects\\Examples\\Linked_List\\obj\\",
+      "outputPath": "C:\\Users\\ncirp\\Desktop\\Visual Studio Projects\\List-Array-DoubleLinkedList\\Linked_List\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

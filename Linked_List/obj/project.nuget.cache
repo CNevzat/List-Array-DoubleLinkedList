@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WgLWzSidlAHYoL/8yo6SJvR7YiEeq6C5ouCbAQANIp5x3B30UfnIKqPC+XfjURAgsQ21aY8TZ5soIq62LqoLwQ==",
+  "dgSpecHash": "wdeYwmec8yWEFnFYhHBR8OrI6p+sbpt4NyGd1TOJVv38d+oD15qQzC9rdTYah2j3TZ9AMEeA6t2GJ3r0w2upvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ncirp\\Desktop\\Visual Studio Projects\\Examples\\Linked_List\\Linked_List.csproj",
+  "projectFilePath": "C:\\Users\\ncirp\\Desktop\\Visual Studio Projects\\List-Array-DoubleLinkedList\\Linked_List\\Linked_List.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
